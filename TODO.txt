@@ -1,0 +1,8 @@
+Python 3.7
+
+Access webcam feed
+Take still image from webcam
+Compare still image with reference image using OpenCV (uploaded before) 
+Figure out how to login to Windows using a script
+
+Create a UI
